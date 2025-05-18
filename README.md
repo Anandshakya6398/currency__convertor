@@ -18,4 +18,9 @@ A simple and interactive **Currency Converter** built using **HTML**, **CSS**, a
 - **JavaScript (ES6)** – For app logic and API integration
 - **[ExchangeRate API](https://www.exchangerate-api.com/)** (or whichever API you used)
 
+🧑‍💻 Author
+Made with ❤️ by Anand Shakya
 
+GitHub: anandshakya6398
+
+Portfolio: [anand-portfolio.com](https://anandkumar-portfoilo.netlify.app)
